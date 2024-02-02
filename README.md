@@ -14,7 +14,6 @@
 
 - 📫 How to reach me **niladri.civil.iitkgp@gmail.com**
 
-- ⚡ Fun fact **I am lazy**
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=DataMinerX&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
